@@ -1,0 +1,22 @@
+{
+  "name": "tt-package-demo",
+  "version": "0.0.1",
+  "description": "A demo package built following the Total Typescript article",
+  "keywords": [
+    "demo",
+    "typescript"
+  ],
+  "homepage": "https://github.com/victorbadaro/tt-package-demo",
+  "bugs": {
+    "url": "https://github.com/victorbadaro/tt-package-demo/issues"
+  },
+  "author": "Victor Badaró <victor.badaro@fatec.sp.gov.br> (https://github.com/victorbadaro)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorbadaro/tt-package-demo.git"
+  },
+  "files": [
+    "dist"
+  ],
+  "type": "module"
+}
