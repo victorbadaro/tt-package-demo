@@ -44,6 +44,8 @@
     "check-exports": "attw --pack .",
     "lint": "tsc",
     "test": "vitest run",
-    "dev": "vitest"
+    "dev": "vitest",
+    "local-release": "changeset version && changeset publish",
+    "prepublishOnly": "npm run ci"
   }
 }
