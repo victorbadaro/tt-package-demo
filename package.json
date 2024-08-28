@@ -15,6 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/victorbadaro/tt-package-demo.git"
   },
+  "license": "MIT",
   "files": [
     "dist"
   ],
