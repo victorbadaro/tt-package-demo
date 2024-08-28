@@ -1,6 +1,6 @@
 {
   "name": "tt-package-demo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A demo package built following the Total Typescript article",
   "keywords": [
     "demo",
